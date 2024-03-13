@@ -1,1 +1,1 @@
-"# teszt1" 
+"Teszt oldal a git gyakorlására" 
